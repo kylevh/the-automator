@@ -14,8 +14,8 @@ target_parcels = ["3364900040", "9528103735", "9528104790"]
 # shapefile path
 shapefile_paths = {
     'parcel' : 'Datasets/parcel_data/parcel_data.shp',
-    'steep_slope' : 'Datasets/ECA_Steep_Slope/ECA_Steep_Slope.shp',
-    'liquefaction' : 'Datasets/ECA_Liquefaction_Prone_Areas/ECA_Liquefaction_Prone_Areas.shp',
+    'steep_slope' : 'Datasets/ECA/ECA_Steep_Slope/ECA_Steep_Slope.shp',
+    'liquefaction' : 'Datasets/ECA/ECA_Liquefaction_Prone_Areas/ECA_Liquefaction_Prone_Areas.shp',
 }
 
 # Read each shapefile path into DataFrame
